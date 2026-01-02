@@ -17,7 +17,7 @@ for i in range(7):
         mix = True
         break
 if mix == True:
-    print("mix")
+    print("mixed")
 elif asc == True:
     print("ascending")
 else:
